@@ -17,8 +17,10 @@
 📫 How to Reach Me:
   📧 Email: 142401034@smail.iitpkd.ac.in
   🌐 LinkedIn: { https://www.linkedin.com/in/sai-kiran-vullengala-20a407330/ }
+  
 ⚡Fun Fact:
   -I’m from the beautiful IIT Palakkad campus — surrounded by nature and code ☀️🌴
+  
 💻 Tech Stack:
 -Languages: C++, Python
 -Tools: Git, GitHub, VS Code, CLion
