@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiran-8287
+- 👋 Hi, I’m Sai Kiran
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
