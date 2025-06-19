@@ -1,5 +1,6 @@
 👋 Hi, I'm Sai Kiran Vullengala
 🎓 BTech Student at IIT Palakkad | 💻 Aspiring Software Engineer
+
 🔭 Currently Working On:
   -Strengthening my Data Structures & Algorithms (DSA) skills
   -Building cool projects in C++ and exploring Competitive Programming
@@ -16,6 +17,7 @@
 
 📫 How to Reach Me:
   📧 Email: 142401034@smail.iitpkd.ac.in
+  
   🌐 LinkedIn: { https://www.linkedin.com/in/sai-kiran-vullengala-20a407330/ }
   
 ⚡Fun Fact:
