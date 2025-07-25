@@ -19,7 +19,7 @@
 
 ---
 
-## 👯 I’m Looking To Collaborate On:
+##  I’m Looking To Collaborate On:
 - Beginner-friendly **open-source projects**  
 - **Coding challenges** and **hackathons**  
 - Building **portfolio projects** with clean and readable code
