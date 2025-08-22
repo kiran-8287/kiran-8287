@@ -3,12 +3,12 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FE8019&center=true&vCenter=true&width=520&lines=Hey+there!;I'm+Kiran" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90D5FF&center=true&vCenter=true&width=520&lines=Howdy!;I'm+Kiran" alt="Typing SVG" />
   </a>
 </p>
 
 
-### Howdy!
+###
 - I am a sophomore at IIT Palakkad, driven by curiosity for technology and innovation. 
 - Interested in Web Development, Competitive Programming, and DevTools.  
 - Diving into competitive programming, web apps, and problem-solving.
