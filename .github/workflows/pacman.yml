@@ -1,0 +1,26 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule: # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pac-Man Graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kiran-8287
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
