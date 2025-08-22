@@ -10,8 +10,7 @@
 
 ###
 - I am a sophomore at IIT Palakkad, driven by curiosity for technology and innovation. 
-- Interested in Web Development, Competitive Programming, and DevTools.  
-- Diving into competitive programming, web apps, and problem-solving.
+- Diving into competitive programming, full-stack development, and problem-solving.
 
 ---
 <div align="center">
