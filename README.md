@@ -62,7 +62,13 @@
 </p>
 
 ---
-
+<h3>Skills:</h3>
+<div><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />   <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img align="left" alt="cpp" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /></a>
+<a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img align="left" alt="c" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="js" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="left" alt="ts" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank" rel="noreferrer"><img align="left" alt="xml" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" /></a><a="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img align="left" alt="css" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" alt="html" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img align="left" alt="nodejs" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img align="left" alt="svelte" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img align="left" alt="Firebase" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" /></a>
+  
+---
+  
 ### Featured Projects
 - 🔗 [IAR Cell website — frontend](https://github.com/kiran-8287/iar-cell)  
 - 🔗 [Alumni testimonials — React conversion](https://github.com/kiran-8287)  
@@ -72,10 +78,10 @@
 
 ### Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/saikiran-vullengala">
     <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83A598"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="saikiranvullengala.com">
     <img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=FB4934"/>
   </a>
 </p>
