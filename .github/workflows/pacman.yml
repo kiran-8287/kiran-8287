@@ -1,26 +1,29 @@
-name: Pac-Man eating contributions
+name: generate pacman game
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:        # Allow manual trigger
-
-permissions:
-  contents: write
+  schedule: # Run automatically every 24 hours
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk@v3
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: kiran-8287
-          outputs: |
-            dist/pacman.svg?palette=github-dark
-            dist/pacman.svg?palette=github-light
 
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      # Push the generated SVG to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
