@@ -7,7 +7,6 @@
   </a>
 </p>
 
----
 
 ### Howdy!
 - I am a sophomore at IIT Palakkad, driven by curiosity for technology and innovation. 
@@ -15,70 +14,50 @@
 - Diving into competitive programming, web apps, and problem-solving.
 
 ---
-
-### GitHub Stats
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kiran-8287&theme=gruvbox&margin-w=15&margin-h=15)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran-8287&show_icons=true&theme=gruvbox" alt="kiran-8287's GitHub stats" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-8287&theme=gruvbox" alt="streak" height="120"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-8287&layout=compact&theme=gruvbox" alt="top langs" height="120"/>
-</p>
-
----
-
-### Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-8287&theme=gruvbox" alt="activity graph" width="800" />
+  <img src="https://github-profile-trophy.vercel.app?username=kiran-8287&theme=kimbie_dark&column=-1&row=2&margin-w=8&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-8287&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran-8287&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kiran-8287&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-8287&radius=16&theme=react&area=true&order=5&hide_border=true&custom_title=My%20Contributions" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
+</picture>
+
+
+### Skills:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ---
 
-### LeetCode (optional)
+### Reach me:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+
+### LeetCode
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/kiran_2166?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
----
-<h3>Skills:</h3>
-<div>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img align="left" alt="C++" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img align="left" alt="React" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img align="left" alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img align="left" alt="CSS3" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img align="left" alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  </a>
-</div>
 
-<br clear="left"/>
-
----
-
-### Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/saikiran-vullengala">
-    <img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83A598"/>
-  </a>
-  <a href="saikiranvullengala.com">
-    <img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=FB4934"/>
-  </a>
-</p>
