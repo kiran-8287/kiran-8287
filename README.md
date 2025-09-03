@@ -13,6 +13,9 @@
 - Diving into competitive programming, full-stack development, and problem-solving.
 
 ---
+
+![](https://komarev.com/ghpvc/?username=kiran-8287&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kiran-8287&theme=kimbie_dark&column=-1&row=2&margin-w=8&margin-h=4&no-bg=true&no-frame=true&order=4&v=1" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-8287&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
