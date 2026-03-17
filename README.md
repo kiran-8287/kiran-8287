@@ -1,82 +1,95 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=90D5FF&center=true&vCenter=true&width=520&lines=Howdy!;I'm+Kiran+:)" alt="Typing SVG" /> </a> </p>
-<p align="center">
-Building scalable systems • Solving algorithmic problems • Exploring AI
-</p>
+Hey, I'm Kiran. I build full-stack apps and AI-powered tools, usually at odd hours when I should probably be sleeping.
+
+2nd year B.Tech (Data Science) @ IIT Palakkad. I go quiet for hours deep in a problem, then fix it in 10 minutes the next morning and feel unreasonably happy about it. Curious about everything, if it's interesting, I'm already Googling it.
+
+---
+
+## What I work with
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logoColor=white)
+
+**Databases & Auth**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**AI & APIs**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## Things I've built
+
+### FinVoice — AI Voice Banking Assistant
+Built in under 30 hours at Agentathon 2025 (India's largest agentic AI hackathon). Multilingual voice-first banking assistant in English, Hindi and Telugu using Google Gemini Live API.
+
+`React` `Google Gemini Live API` `Voice UI` `JavaScript`
+
+### Lumina CRM — SaaS Lead Management
+Full-stack CRM with lead lifecycle tracking, analytics dashboards, JWT auth, and PostgreSQL relational schema on Supabase. Dark mode, Context API global state.
+
+`React` `Node.js` `Express` `PostgreSQL` `Supabase` `JWT`
+
+### Alumni Platform — IIT Palakkad
+Frontend of the official alumni management platform for IIT Palakkad. React dashboard with profiles, events, admin CRUD tools, search and pagination.
+
+`React` `JavaScript`
+
+---
+
+## By the numbers
+
+| 220+ LeetCode (C++) | 21+ GitHub Repos | 2 Hackathons | 2nd Year @ IIT |
+|---|---|---|---|
 
 ---
 
 ## Activity
 
 <div align="center">
-
 <img src="https://github-readme-stats-self-eta-11.vercel.app/api?username=kiran-8287&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="160"/>
-
 <img src="https://github-readme-stats-self-eta-11.vercel.app/api/top-langs/?username=kiran-8287&layout=compact&theme=react&hide_border=true" height="160"/>
-
 </div>
 
-<br/>
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
 </picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-8287&theme=react-dark&hide_border=true"/>
-
 </div>
-
-
 
 ---
 
-## Tech Stack
+## Currently
 
-<div align="center">
-
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
-
-<br/><br/>
-
-<!-- Row 2 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-
-</div>
+Rebuilding DSA speed in C++ · Building something ambitious this summer · Open to SWE internships 2026
 
 ---
 
 ## Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sai-kiran-vullengala">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30"/>
-</a>
-
-<a href="mailto:saikiranvullengala@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-vullengala)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saikiranvullengala@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/kiran_2166)
