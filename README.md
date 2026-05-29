@@ -41,26 +41,26 @@ Hey, I'm Kiran. I build full-stack apps and AI-powered tools, usually at odd hou
 
 ## Things I've built
 
-### FinVoice — AI Voice Banking Assistant
-Built in under 30 hours at Agentathon 2025 (India's largest agentic AI hackathon). Multilingual voice-first banking assistant in English, Hindi and Telugu using Google Gemini Live API.
+### Aarogya HMS — Hospital Management System
+Production-grade hospital management platform with role-based portals for Admins, Doctors, Nurses, and Patients. Implemented PostgreSQL triggers, automated billing, appointment conflict prevention, and real-time room occupancy tracking with a modern analytics dashboard.
 
-`React` `Google Gemini Live API` `Voice UI` `JavaScript`
+`React 19` `Node.js` `Express` `PostgreSQL` `Tailwind CSS` `Recharts`
 
-### Lumina CRM — SaaS Lead Management
-Full-stack CRM with lead lifecycle tracking, analytics dashboards, JWT auth, and PostgreSQL relational schema on Supabase. Dark mode, Context API global state.
+### Planora — 2D Interior Design & Spatial Blueprinting Suite
+Premium full-stack interior design platform with CAD-like floor planning, real-time spatial editing, grid snapping, keyboard-driven controls, and live room-wise cost estimation. Supports JSON layout persistence and LAN sharing.
 
-`React` `Node.js` `Express` `PostgreSQL` `Supabase` `JWT`
+`React 18` `Vite` `Node.js` `Express` `JavaScript`
 
-### Alumni Platform — IIT Palakkad
-Frontend of the official alumni management platform for IIT Palakkad. React dashboard with profiles, events, admin CRUD tools, search and pagination.
+### Nescafe Online Ordering System — IIT Palakkad
+Full-stack digital ordering platform built for the Nescafe outlet at IIT Palakkad to eliminate queues. Features real-time order management, automated delivery batching, inventory management, Razorpay integration, and OTP authentication.
 
-`React` `JavaScript`
+`React` `Node.js` `Supabase` `Razorpay` `PostgreSQL`
 
 ---
 
 ## By the numbers
 
-| 220+ LeetCode (C++) | 21+ GitHub Repos | 2 Hackathons | 2nd Year @ IIT |
+| 230+ LeetCode (C++) | 24+ GitHub Repos | 2 Hackathons | 2nd Year @ IIT |
 |---|---|---|---|
 
 ---
