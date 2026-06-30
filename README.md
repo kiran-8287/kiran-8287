@@ -58,13 +58,6 @@ Full-stack digital ordering platform built for the Nescafe outlet at IIT Palakka
 
 ---
 
-## By the numbers
-
-| 230+ LeetCode (C++) | 24+ GitHub Repos | 2 Hackathons | 2nd Year @ IIT |
-|---|---|---|---|
-
----
-
 ## Currently
 
 Rebuilding DSA speed in C++ · Building something ambitious this summer · Open to SWE internships 2026
