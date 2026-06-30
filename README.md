@@ -65,23 +65,6 @@ Full-stack digital ordering platform built for the Nescafe outlet at IIT Palakka
 
 ---
 
-## Activity
-
-<div align="center">
-<img src="https://github-readme-stats-self-eta-11.vercel.app/api?username=kiran-8287&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="160"/>
-<img src="https://github-readme-stats-self-eta-11.vercel.app/api/top-langs/?username=kiran-8287&layout=compact&theme=react&hide_border=true" height="160"/>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kiran-8287/kiran-8287/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
----
-
 ## Currently
 
 Rebuilding DSA speed in C++ · Building something ambitious this summer · Open to SWE internships 2026
