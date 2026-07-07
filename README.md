@@ -63,8 +63,7 @@ Full-stack digital ordering platform built for the Nescafe outlet at IIT Palakka
 Rebuilding DSA speed in C++ · Building something ambitious this summer · Open to SWE internships 2026
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kiran-8287&theme=tokyonight&hide_border=true&v=1" />
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiran-8287&theme=tokyonight&hide_border=true)
 
 ## Connect
 
