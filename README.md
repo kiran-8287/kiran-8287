@@ -63,7 +63,30 @@ Full-stack digital ordering platform built for the Nescafe outlet at IIT Palakka
 Rebuilding DSA speed in C++ · Building something ambitious this summer · Open to SWE internships 2026
 
 ---
+## <img src="https://img.shields.io/badge/-09-8B5CF6?style=flat-square"/> GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kiran-8287&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charan270469&theme=dark&hide_border=true&background=0D1117&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan270469&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/-11-7C3AED?style=flat-square"/> Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-8287&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=D8B4FE&hide_border=true" width="100%"/>
+
+</div>
+
+---
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-vullengala)
