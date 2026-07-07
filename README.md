@@ -68,11 +68,11 @@ Rebuilding DSA speed in C++ · Building something ambitious this summer · Open 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kiran-8287&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charan270469&theme=dark&hide_border=true&background=0D1117&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-8287&theme=dark&hide_border=true&background=0D1117&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan270469&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-8287&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
 
 </div>
 
