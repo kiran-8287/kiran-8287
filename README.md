@@ -1,6 +1,6 @@
 Hey, I'm Kiran. I build full-stack apps and AI-powered tools, usually at odd hours when I should probably be sleeping.
 
-2nd year B.Tech (Data Science) @ IIT Palakkad. I go quiet for hours deep in a problem, then fix it in 10 minutes the next morning and feel unreasonably happy about it. Curious about everything, if it's interesting, I'm already Googling it.
+3rd year B.Tech (Data Science) @ IIT Palakkad. I go quiet for hours deep in a problem, then fix it in 10 minutes the next morning and feel unreasonably happy about it. Curious about everything, if it's interesting, I'm already Googling it.
 
 ---
 
